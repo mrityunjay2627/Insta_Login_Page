@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:instagram_clone/src/Authentication/SigninPage.dart';
 
 class LandingPage extends StatefulWidget {
   @override
@@ -8,6 +9,6 @@ class LandingPage extends StatefulWidget {
 class _LandingPageState extends State<LandingPage> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return SigninPage();
   }
 }

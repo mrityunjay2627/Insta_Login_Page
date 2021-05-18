@@ -46,6 +46,7 @@ flutter:
 
   assets:
     - assets/profile1.png
+    - assets/vectors/
 
   fonts:
     - family: Raleway
