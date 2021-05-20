@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       title: "Instagram",
       theme: ThemeData(
         fontFamily: 'Raleway',
-        primaryColor: Colors.blue,
+        primaryColor: Colors.black,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: LandingPage(),
